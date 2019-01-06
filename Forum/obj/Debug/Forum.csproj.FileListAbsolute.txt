@@ -1,0 +1,449 @@
+D:\visual studio 2013\Projects\Forum\Forum\bin\Forum.dll.config
+D:\visual studio 2013\Projects\Forum\Forum\bin\Forum.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Forum.pdb
+D:\visual studio 2013\Projects\Forum\Forum\bin\Antlr3.Runtime.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\EntityFramework.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\EntityFramework.SqlServer.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.Google.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Newtonsoft.Json.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\Owin.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.Helpers.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.Mvc.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.Optimization.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.Razor.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.WebPages.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\WebGrease.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.Helpers.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.Mvc.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.Optimization.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.Razor.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.WebPages.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Antlr3.Runtime.pdb
+D:\visual studio 2013\Projects\Forum\Forum\bin\Newtonsoft.Json.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\EntityFramework.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\EntityFramework.SqlServer.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.Google.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\EntityFramework.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.Owin.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\visual studio 2013\Projects\Forum\Forum\obj\Debug\Forum.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\Forum\Forum\obj\Debug\Forum.dll
+D:\visual studio 2013\Projects\Forum\Forum\obj\Debug\Forum.pdb
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Forum.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Forum.pdb
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Antlr3.Runtime.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\EntityFramework.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\EntityFramework.SqlServer.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Newtonsoft.Json.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Owin.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.Helpers.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.Mvc.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.Optimization.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.Razor.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.WebPages.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\WebGrease.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.Helpers.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.Mvc.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.Optimization.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.Razor.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.WebPages.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Antlr3.Runtime.pdb
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Newtonsoft.Json.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\EntityFramework.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\EntityFramework.SqlServer.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Monshin\Desktop\Forum\Forum\obj\Debug\Forum.csprojResolveAssemblyReference.cache
+C:\Users\Monshin\Desktop\Forum\Forum\obj\Debug\Forum.dll
+C:\Users\Monshin\Desktop\Forum\Forum\obj\Debug\Forum.pdb
+C:\Users\Monshin\Desktop\Forum\Forum\bin\Forum.dll.config
+d:\Users\清輝\Desktop\Forum\Forum\bin\Forum.dll.config
+d:\Users\清輝\Desktop\Forum\Forum\bin\Forum.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Forum.pdb
+d:\Users\清輝\Desktop\Forum\Forum\bin\Antlr3.Runtime.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\EntityFramework.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\EntityFramework.SqlServer.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Google.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Newtonsoft.Json.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\Owin.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.Helpers.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.Mvc.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.Optimization.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.Razor.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.WebPages.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\WebGrease.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.Helpers.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.Mvc.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.Optimization.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.Razor.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.WebPages.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Antlr3.Runtime.pdb
+d:\Users\清輝\Desktop\Forum\Forum\bin\Newtonsoft.Json.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\EntityFramework.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\EntityFramework.SqlServer.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Google.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\System.Web.Helpers.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\System.Web.Mvc.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\System.Web.Optimization.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\System.Web.Razor.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\System.Web.WebPages.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\EntityFramework.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+d:\Users\清輝\Desktop\Forum\Forum\obj\Debug\Forum.csprojResolveAssemblyReference.cache
+d:\Users\清輝\Desktop\Forum\Forum\obj\Debug\Forum.dll
+d:\Users\清輝\Desktop\Forum\Forum\obj\Debug\Forum.pdb
+C:\軟工\project\Forum\Forum\Forum\bin\Forum.dll.config
+C:\軟工\project\Forum\Forum\Forum\bin\Forum.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Forum.pdb
+C:\軟工\project\Forum\Forum\Forum\bin\Antlr3.Runtime.dll
+C:\軟工\project\Forum\Forum\Forum\bin\EntityFramework.dll
+C:\軟工\project\Forum\Forum\Forum\bin\EntityFramework.SqlServer.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.Google.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Newtonsoft.Json.dll
+C:\軟工\project\Forum\Forum\Forum\bin\Owin.dll
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.Helpers.dll
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.Mvc.dll
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.Optimization.dll
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.Razor.dll
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.WebPages.dll
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+C:\軟工\project\Forum\Forum\Forum\bin\WebGrease.dll
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.Helpers.xml
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.Mvc.xml
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.Optimization.xml
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.Razor.xml
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.WebPages.xml
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+C:\軟工\project\Forum\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Antlr3.Runtime.pdb
+C:\軟工\project\Forum\Forum\Forum\bin\Newtonsoft.Json.xml
+C:\軟工\project\Forum\Forum\Forum\bin\EntityFramework.xml
+C:\軟工\project\Forum\Forum\Forum\bin\EntityFramework.SqlServer.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.Google.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\軟工\project\Forum\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\EntityFramework.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\軟工\project\Forum\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\軟工\project\Forum\Forum\Forum\obj\Debug\Forum.csprojAssemblyReference.cache
+C:\軟工\project\Forum\Forum\Forum\obj\Debug\Forum.csproj.CoreCompileInputs.cache
+C:\軟工\project\Forum\Forum\Forum\obj\Debug\Forum.csproj.CopyComplete
+C:\軟工\project\Forum\Forum\Forum\obj\Debug\Forum.dll
+C:\軟工\project\Forum\Forum\Forum\obj\Debug\Forum.pdb
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Forum.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Forum.pdb
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Owin.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.dll
+C:\Users\Administrator\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.pdb
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Forum.dll.config
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Forum.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Forum.pdb
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Antlr3.Runtime.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\EntityFramework.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\EntityFramework.SqlServer.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Newtonsoft.Json.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Owin.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.Helpers.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.Mvc.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.Optimization.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.Razor.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\WebGrease.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.Helpers.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.Mvc.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.Optimization.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.Razor.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Antlr3.Runtime.pdb
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Newtonsoft.Json.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\EntityFramework.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\EntityFramework.SqlServer.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.csprojAssemblyReference.cache
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.csproj.CoreCompileInputs.cache
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.csproj.CopyComplete
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.dll
+C:\Users\SeanLin_NB\Desktop\Forum2\Forum\Forum\obj\Debug\Forum.pdb
